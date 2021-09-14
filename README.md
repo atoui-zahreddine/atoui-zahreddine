@@ -10,10 +10,10 @@
 <br/>
 <br/>
 
-<div>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atoui-zahreddine&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atoui-zahreddine&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
 <!---
 atoui-zahreddine/atoui-zahreddine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
