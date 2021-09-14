@@ -5,18 +5,15 @@
 - 📫 How to reach me : - Email : at.zahreddine@gmail.com 
                        - LinkedIn : https://www.linkedin.com/in/zahreddine-atoui-609804188/
 
-
-
 <br/>
 <br/>
 <br/>
 <br/>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atoui-zahreddine&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atoui-zahreddine&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<div>
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atoui-zahreddine&theme=vue-dark)](https://github.com/anuraghazra/github-readme-    stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atoui-zahreddine&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>     
 
 
 <!---
