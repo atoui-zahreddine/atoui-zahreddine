@@ -11,7 +11,8 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atoui-zahreddine&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=atoui-zahreddine&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=atoui-zahreddine)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
