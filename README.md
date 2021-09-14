@@ -9,11 +9,8 @@
 <br/>
 <br/>
 <br/>
-
-<div center>
  (https://github-readme-stats.vercel.app/api?username=atoui-zahreddine&theme=vue-dark)
- (https://github-readme-stats.vercel.app/api/top-langs/?username=atoui-zahreddine&layout=compact&theme=vue-dark)
-</div>     
+ (https://github-readme-stats.vercel.app/api/top-langs/?username=atoui-zahreddine&layout=compact&theme=vue-dark)   
 
 
 <!---
