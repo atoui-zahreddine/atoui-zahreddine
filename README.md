@@ -9,9 +9,8 @@
 <br/>
 <br/>
 <br/>
- (https://github-readme-stats.vercel.app/api?username=atoui-zahreddine&theme=vue-dark)
- (https://github-readme-stats.vercel.app/api/top-langs/?username=atoui-zahreddine&layout=compact&theme=vue-dark)   
-
+(https://github-readme-stats.vercel.app/api?username=atoui-zahreddine&theme=vue-dark)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=atoui-zahreddine&layout=compact&theme=vue-dark)   
 
 <!---
 atoui-zahreddine/atoui-zahreddine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
